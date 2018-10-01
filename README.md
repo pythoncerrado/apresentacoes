@@ -1,5 +1,7 @@
 # Python Cerrado 2018
 
+## Keynotes
+
 ## Apresentacoes
 
 Bruna Moreira - [Python para crianças: por quê e como?](https://goo.gl/nx6XrC)
@@ -10,3 +12,5 @@ Diego Dorgam - [Como criar Chatbots inteligentes com DeepLearning no RASA.AI](ap
 
 
 ## Tutoriais
+
+## Lightning Talks
