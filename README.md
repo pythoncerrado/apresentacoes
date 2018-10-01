@@ -13,4 +13,6 @@ Diego Dorgam - [Como criar Chatbots inteligentes com DeepLearning no RASA.AI](ap
 
 ## Tutoriais
 
+Otávio Carneiro - [Tradução com Python e Gettext](https://github.com/ocarneiro/oficina-gettext)
+
 ## Lightning Talks
