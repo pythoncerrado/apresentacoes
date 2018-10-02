@@ -13,7 +13,9 @@ Diego Dorgam - [Como criar Chatbots inteligentes com DeepLearning no RASA.AI](ap
 
 ## Tutoriais
 
-Danilo Silva Rodrigues
+Otávio Carneiro - [Tradução com Python e Gettext](https://github.com/ocarneiro/oficina-gettext)
+
+Danilo Silva Rodrigues -
 1. [Deploy com Python e Django usando o Heroku](https://docs.google.com/presentation/d/1m3orw6_Y2WgTH1CTFKct-L5DIpyGvXtED8HOa0Z5K_8/edit?usp=sharing)
 2. [GitHub da Aplicação](https://github.com/daniloroddrigues/danilo-motors)
 
