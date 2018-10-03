@@ -10,6 +10,8 @@ Bruno Barbosa - [Alta performance com Python - Paralelismo e Concorrência](alta
 
 Diego Dorgam - [Como criar Chatbots inteligentes com DeepLearning no RASA.AI](apr-PythonCerrado-rasa-ai.pdf)
 
+Paulo Cotta - [Python e TensorFlow quebrando barreiras e fronteiras](quebrando-barreiras-com-tensorflow.pdf)
+
 
 ## Tutoriais
 
