@@ -17,6 +17,8 @@ Paulo Cotta - [Python e TensorFlow quebrando barreiras e fronteiras](quebrando-b
 
 Otávio Carneiro - [Tradução com Python e Gettext](https://github.com/ocarneiro/oficina-gettext)
 
+Talitha Pumar - [Coding Dojo - Interpretador de BrainFuck](https://github.com/pythoncerrado/apresentacoes/tree/master/DojoPythonCerrado)
+
 Danilo Silva Rodrigues -
 1. [Deploy com Python e Django usando o Heroku](https://docs.google.com/presentation/d/1m3orw6_Y2WgTH1CTFKct-L5DIpyGvXtED8HOa0Z5K_8/edit?usp=sharing)
 2. [GitHub da Aplicação](https://github.com/daniloroddrigues/danilo-motors)
