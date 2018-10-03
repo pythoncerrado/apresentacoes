@@ -1,3 +1,5 @@
+# Compilador de brainfuck criado pelo professor Fábio Mendes
+
 (# bf2c - LAMBDA-STYLE
 
 # Importamos o módulo argparse para criar um parser para os argumentos da linha
