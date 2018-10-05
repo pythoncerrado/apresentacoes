@@ -12,6 +12,8 @@ Diego Dorgam - [Como criar Chatbots inteligentes com DeepLearning no RASA.AI](ap
 
 Paulo Cotta - [Python e TensorFlow quebrando barreiras e fronteiras](quebrando-barreiras-com-tensorflow.pdf)
 
+André Mesquita - [O porque o Micropython e Jupyter notebook me conquistou](https://github.com/monitoracerrado/apresentacao_pycerrado2018)
+
 
 ## Tutoriais
 
